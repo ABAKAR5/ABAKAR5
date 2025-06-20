@@ -1,15 +1,29 @@
-- 👋 Hi, I’m @ABAKAR5
-- Bonjour Moi c'est ABAKAR MAHAMAT BRAHIM
-- Je suis étudiant en  informatique niveau 2 option génie logiciel
-- allez-y voir mon portfolio voici le lien https://abakar5.github.io/portfolio-abakar/
-- 👀 I’m interested in par le devellepoment 
-- 🌱 I’m currently learning la programation 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Bonjour, je suis @ABAKAR5
 
-<!---
-ABAKAR5/ABAKAR5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🙋‍♂️ À propos de moi
+
+Bonjour ! Moi c’est **ABAKAR MAHAMAT BRAHIM**.  
+🎓 Étudiant en informatique (Niveau 2), option **Génie Logiciel**.
+
+🔗 Découvrez mon portfolio :  
+👉 [https://abakar5.github.io/portfolio-abakar/](https://abakar5.github.io/portfolio-abakar/)
+
+## 💻 Ce que je fais
+
+- 👀 Je m’intéresse au **développement logiciel** et à la **programmation web**.  
+- 🌱 Actuellement, j’apprends **HTML**, **CSS**, **JavaScript**, **PHP** et **MySQL**.  
+- 💞️ Je cherche à collaborer sur des projets open source ou étudiants pour améliorer mes compétences.
+
+## 📫 Contact
+
+- 📧 Email : abakarmahamatbrahim8@gmail.com  
+- 📱 Téléphone : +235 60 44 90 70 / +235 92 46 45 15  
+
+## 😄 Autres infos
+
+- 🔤 Pronoms : Il / Lui  
+- ⚡ Fait amusant : J’aime apprendre en pratiquant, surtout en créant de vrais petits projets utiles (comme des générateurs de reçus cabine 😉).
+
+---
+
+Merci d’avoir visité mon profil !
