@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis @ABAKAR5
+# 👋 Bonjour, je suis @ABAKAR (AB VIP)
 
 ## 🙋‍♂️ À propos de moi
 
@@ -11,7 +11,7 @@ Bonjour ! Moi c’est **ABAKAR MAHAMAT BRAHIM**.
 ## 💻 Ce que je fais
 
 - 👀 Je m’intéresse au **développement logiciel** et à la **programmation web**.  
-- 🌱 Actuellement, j’apprends **HTML**, **CSS**, **JavaScript**, **PHP** et **MySQL**, **Django**, **React**, **Python**, **Figma**.  
+- 🌱 Actuellement, j’apprends **HTML**, **CSS**, **JavaScript**, **PHP** et **MySQL**, **Django**, **React**, **Python**, **Figma** et autre.  
 - 💞️ Je cherche à collaborer sur des projets open source ou étudiants pour améliorer mes compétences.
 
 ## 📫 Contact
