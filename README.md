@@ -44,8 +44,13 @@ Passionné par le développement logiciel et l'architecture web, je conçois des
 ### 📊 Statistiques GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ABAKAR5&show_icons=true&theme=tokyonight&hide_border=true" height="150" alt="Stats GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABAKAR5&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Langages principaux" />
+  <img src="https://streak-stats.demolab.com?user=ABAKAR5&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ABAKAR5&theme=tokyonight" width="100%" alt="Détails du profil" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ABAKAR5&theme=tokyonight" height="160" alt="Langages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ABAKAR5&theme=tokyonight" height="160" alt="Stats" />
 </p>
 
 ---
