@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est Abakar (@ABAKAR5)
+# 👋 Salut, moi c'est Abakar (AB VIP)
 
 ### 💻 Développeur Full-Stack | Étudiant en Génie Logiciel (Licence 3)
 
